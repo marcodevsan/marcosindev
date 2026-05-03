@@ -1,5 +1,5 @@
 
-# Olá, Marcos! 👋
+# Olá, sou o Marcos! 👋
 
 Sou um desenvolvedor especializado na plataforma Salesforce com **4 anos de experiência** construindo soluções robustas, escaláveis e centradas no usuário. Meu foco principal é transformar requisitos de negócios complexos em experiências digitais eficientes utilizando as melhores práticas de arquitetura e desenvolvimento.
 
